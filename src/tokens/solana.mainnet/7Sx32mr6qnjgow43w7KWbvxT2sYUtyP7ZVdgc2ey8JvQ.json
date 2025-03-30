@@ -1,0 +1,12 @@
+{
+  "chainId": 101,
+  "address": "7Sx32mr6qnjgow43w7KWbvxT2sYUtyP7ZVdgc2ey8JvQ",
+  "symbol": "SYNE",
+  "name": "SYNTHEON",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/haconmagnus/syne-token/main/logo.png",
+  "extensions": {
+    "website": "https://synetheon.com",
+    "description": "The official token of the SYNETHEON project — an AI-driven force forged in the fires of Magnus."
+  }
+}
